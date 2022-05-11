@@ -1,0 +1,33 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@400;700&family=Rubik&display=swap");
+
+:root {
+    --code-font: 'Lato', sans-serif;
+}
+
+body{
+    width:100%;
+    margin:0;
+    padding:0;
+    background:rgb(255, 255, 255);
+    font-family: var(--code-font);
+  }
+  h1{
+    margin-left:5%;
+    color:hsla(255,255%,255%,1);
+    font-size:1.5em;
+  }
+  textarea{
+    width:80%;
+    margin-left:5%;
+    background:rgb(0, 0, 0);
+    color:rgb(255, 255, 255);
+    box-shadow:2px 2px 2px 2px hsla(0,5%,5%,.1);
+    
+  }
+  button{
+  margin-left:5%;
+  border:none;
+  padding:1em;
+  width:12em;
+  box-shadow:2px 2px 2px 2px hsla(0,5%,5%,.4);
+  }

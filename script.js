@@ -1,11 +1,3 @@
-/*
-I also made a pen with this script obfuscated to further prove to myself that it works.  If you're intersted, you can view it here:
- 
-http: //codepen.io/tmrDevelops/pen/431c7d7a477043175ab23819729e40cb?editors=001
- 
-Note: the obfuscated version may take a bit longer to load (only sometimes..not sure why, it doesn't happen outside of codepen).
-*/
- 
 function JS() {
     this.vars = {};
     this.funcs = {};
