@@ -21,7 +21,7 @@
 
 ######
     Donation Options:
-   ## Contact Us
+   ## Donate
 [Patreon](https://www.patreon.com/ObfuscatorPlus?fan_landing=true)  [BTC](https://devdodger.github.io/Obfuscator-Plus/BTCwallet.html)  [PayPal](https://www.paypal.com/donate/?cmd=_donations&business=reidlmiller@gmail.com&item_name=dodger&currency_code=USD)
   <p>
   <img src="https://i.imgur.com/dS3eW9d.png">
