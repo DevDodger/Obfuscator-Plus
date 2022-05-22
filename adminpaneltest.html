@@ -68,7 +68,7 @@
         }
 
         .staticrypt-form .staticrypt-decrypt-button:hover, .staticrypt-form .staticrypt-decrypt-button:active, .staticrypt-form .staticrypt-decrypt-button:focus {
-            background: #43A047;
+            background: #ff0000;
         }
 
         .staticrypt-html {
@@ -78,10 +78,10 @@
         .staticrypt-body {
             margin-bottom: 1em;
             background: #ffffff; /* fallback for old browsers */
-            background: -webkit-linear-gradient(right, #76b852, #8DC26F);
-            background: -moz-linear-gradient(right, #76b852, #8DC26F);
-            background: -o-linear-gradient(right, #76b852, #8DC26F);
-            background: linear-gradient(to left, #76b852, #8DC26F);
+            background: -webkit-linear-gradient(right, #ffffff, #ffffff);
+            background: -moz-linear-gradient(right, #ffffff, #ffffff);
+            background: -o-linear-gradient(right, #ffffff, #ffffff);
+            background: linear-gradient(to left, #ffffff, #ffffff);
             font-family: "Arial", sans-serif;
             -webkit-font-smoothing: antialiased;
             -moz-osx-font-smoothing: grayscale;
@@ -148,7 +148,7 @@
             <input id="staticrypt-password"
                    type="password"
                    name="password"
-                   placeholder="Passphrase"
+                   placeholder="Token"
                    autofocus/>
 
             <label id="staticrypt-remember-label" class="staticrypt-remember hidden">
@@ -158,15 +158,11 @@
                 Remember me
             </label>
 
-            <input type="submit" class="staticrypt-decrypt-button" value="DECRYPT"/>
+            <input type="submit" class="staticrypt-decrypt-button" value="Submit"/>
         </form>
     </div>
 
 </div>
-<footer class="staticrypt-footer">
-    <p class="pull-right">Created with <a href="https://robinmoisson.github.io/staticrypt">StatiCrypt</a></p>
-</footer>
-
 
 <script>/**
  * Crypto JS 3.1.9-1
