@@ -1,7 +1,8 @@
+<!doctype html>
 <html class="staticrypt-html">
 <head>
     <meta charset="utf-8">
-    <title>Admin Panel</title>
+    <title>Protected Page</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <!-- do not cache this page -->
@@ -10,13 +11,6 @@
     <meta http-equiv="expires" content="0"/>
     <meta http-equiv="expires" content="Tue, 01 Jan 1980 1:00:00 GMT"/>
     <meta http-equiv="pragma" content="no-cache"/>
-                <!--==================== UNICONS ====================-->
-                <link rel="stylesheet" href="https://unicons.iconscout.com/release/v3.0.6/css/line.css">
-
-                <!--==================== CSS ====================-->
-                <link rel="stylesheet" href="assets/css/styles.css">
-        
-                <link rel="icon" type="image/x-icon" href="assets/img/1552191.png">
 
     <style>
         .staticrypt-hr {
@@ -58,7 +52,7 @@
         .staticrypt-form .staticrypt-decrypt-button {
             text-transform: uppercase;
             outline: 0;
-            background: #ffffff;
+            background: #4CAF50;
             width: 100%;
             border: 0;
             padding: 15px;
@@ -68,7 +62,7 @@
         }
 
         .staticrypt-form .staticrypt-decrypt-button:hover, .staticrypt-form .staticrypt-decrypt-button:active, .staticrypt-form .staticrypt-decrypt-button:focus {
-            background: #ff0000;
+            background: #43A047;
         }
 
         .staticrypt-html {
@@ -77,11 +71,11 @@
 
         .staticrypt-body {
             margin-bottom: 1em;
-            background: #ffffff; /* fallback for old browsers */
-            background: -webkit-linear-gradient(right, #ffffff, #ffffff);
-            background: -moz-linear-gradient(right, #ffffff, #ffffff);
-            background: -o-linear-gradient(right, #ffffff, #ffffff);
-            background: linear-gradient(to left, #ffffff, #ffffff);
+            background: #76b852; /* fallback for old browsers */
+            background: -webkit-linear-gradient(right, #76b852, #8DC26F);
+            background: -moz-linear-gradient(right, #76b852, #8DC26F);
+            background: -o-linear-gradient(right, #76b852, #8DC26F);
+            background: linear-gradient(to left, #76b852, #8DC26F);
             font-family: "Arial", sans-serif;
             -webkit-font-smoothing: antialiased;
             -moz-osx-font-smoothing: grayscale;
@@ -138,7 +132,7 @@
 <div class="staticrypt-page">
     <div class="staticrypt-form">
         <div class="staticrypt-instructions">
-            <p class="staticrypt-title">Obfuscator Plus<br>Admin Panel</p>
+            <p class="staticrypt-title">Obfuscator Plus <b>Premium</b><br>Email reidlmiller@gmail.com after purchase</p>
             <p></p>
         </div>
 
@@ -148,7 +142,7 @@
             <input id="staticrypt-password"
                    type="password"
                    name="password"
-                   placeholder="Token"
+                   placeholder="Key"
                    autofocus/>
 
             <label id="staticrypt-remember-label" class="staticrypt-remember hidden">
@@ -158,11 +152,12 @@
                 Remember me
             </label>
 
-            <input type="submit" class="staticrypt-decrypt-button" value="Submit"/>
+            <input type="submit" class="staticrypt-decrypt-button" value="Open"/>
         </form>
     </div>
 
 </div>
+
 
 <script>/**
  * Crypto JS 3.1.9-1
@@ -6160,8 +6155,8 @@
 
 <script>
     // variables to be filled when generating the file
-    var encryptedMsg = '62dc6d45d17d246238aed4fc3d73a3427b0143e376d79527c1b1355d62f04b14315845b845e17204ac84cabfba8f4a3fU2FsdGVkX18z8Yu0bnnxLOEDxXoTh9vLK8jmVk2sE2Nn54NxR/4iEVrly5eH5YnTHPxidsny4lYfHQGEEOv70wPOTo+QVmCwwBMY3pIhDE7qMMODgPG97Y4ybsuKPTxCO6ZOPse8Yojl84uMq9M1iGZyMfVtY7uk9CaP4g2z1j9zD0fQRqsfTU8LBimO/jaa3hepVWRx9CMN0YPFcXOZ9EhaZPZao+XVOUGTm4WShqG/MOlgXQMrkI5lLZHTiljDk1c1jByd5qIx93lShj1QmKtEX+dfbYWfjTfnj35kdIQBR6mCbqTUV2QQd/ac10SooLmRwKlKC3+A+DZTvzcyMRE3WdKQRPBYIUXq1KUUkNviZDIZW/Pfa+/vuM82NKmLrzXwZH6skqhqSTmD5G/8EEWe3V1so/5o/Y9+he5VO4JJ5FBxvQ5twRKpW9zfNM8SAF8M4v0Zl/QevTjsEY/C9OjIaLtvC5ofn0W80iP3Y1YXMpGUhyKrqHrcud73mNu2ldcpGDO1OYvk0Hir8mbbNfE2FAppezKxRdeAlXE7fSYAK7ob0PshXd6TyqX0QNPffZR2sroR4dmOewlL7MJTy5RXZHRU9Nsf8XA1rlIy8pzS6qq6gWiryMEUM3C1WFHdO+LidHePq2e5mna9EijRXVU0CWjhr61szmsNa5Z8aGu9N+Gp7+331tBKusauIitYjJWEkAk76Hvai/VuQQKFn2aFW4u/Eu3dR1JR5/QOnMKFy1wiTF9310tzpG7fQwxctDXyw7DxFh2SyFXEGcZ4q6wGOLshbs6CnRVA7HsTt4LJQ8bThSsyfV5KIfQ/dmmNBkFNr+reB8qXyWGkJK4liRsGP1bUzmh2dDvNCEcoimuQo/q+GB9XxLIe029mgDBW1/wDHPXIoG3rL5FHlpYAYfBINuPt3jRY6qCsEnFC2YTtgUXprzn8EsqRoRKwAHNQOdeMAHcrEbKiFdK+64VnMNkFdid7MavZNL5bump3qMnEia9ohtQmV5Tii5y2FCLywrV16AKK6TX6JQQCv2HHTICCDOW1pzhkDyutAmRkJRPxGUVKH3mN24ujPgOakRM1ZLkro0FMkFCWfYC8l9i7TNG4cBJ3gqtW6HhEAp0TPtS3EcN9V+Rin46uSU/UIU9P',
-        salt = '4e774c5f5fff9e0cbd64fde0334dd4b3',
+    var encryptedMsg = 'c0c708631ef216856465da6d3f7be08daab9a111bd24bc8f163c2f58e72e26db98cb029f708e01f1a82461bc54e2966aU2FsdGVkX188T4DBYxKxx1woudJ9ak0Tj7Yv5uQPUX+dTBc2zoCK7wZcIuSe2Y9WvV2f1Vn5L8xSPlKm+Jf4SED3ni4J+1LyIPji0cJgsvOBluhd9NQ44sTJBkB90tdGbMEz2Jy+dnMK+O487DbQ0sN11HyjtojYwp65kqxkBK6Mb7U+UK20lG1QpsSngvegbQFQxIlhuWV2ekKTrBreYNhRc2/R+gJhWdk3WL4uOBn9PXQGNIrI5CPOed2jcWYbl6odSE22tPcR0qsqKoXJ9jVxjKQ24AfdWjrbL0U/ZP+prk9+y6MXrtvjiPMTVIINRYdvLlcMxx/RHTZeVmvzPV9+2lbbUUr3L84fYRyjAEoUgZUuV5q6juZzfTRYcVRT1WUnxbqu5sGGSyjb0FBLaf8H3sSstfWmwiKYoJS0wLqOocEsRQEjnf8WDFepWOvM12BSjQ8lxWiuCbIxfPUvMp+iGxz90tvmB01TdkaSkBMeyy85y1yCtb8CUTGFtmXVN5rozEisUGHpnGaZI5HgznsijF+yxY2D+wzl+6qwGcJWV8BVvVulnqIDoJUNJf0qJwcTcGV8DxnEVxHgw+tZx8Qv+z8jAcHkYCm8N7rVDulsjTYAYVITpdFfxCbnPmw0m8X9sk0KvM/KQopZME3pxZMMSOvNByGK/AMaiZoYqf8iQXkMFPgrI1jC+2ZHBU7EuhOW4HN6aMYLKoMBLbdfMDJsYT1FfAGhPPwJLmd05bxgXnDQ6xgihGKwwTNMJwus19CxtlA2ueA0ZRerX24F5J/gyVkyFBVxrqQ3AFP2KWdOd4YWTxleCdXxruf/wUUR0KqlhxYhrDOItHVytBzohgwDRXYE87npReRBQL+ECjWg904sf+o9S38YpOLIw24j/I93WhvZpgKmnVxDSbC+R4zBUgMhpvqqM7fb4EhQLjUlJmU6fmLnLXGvVg6MrOOThWrfAxLpCsvQsclwn6pwSAMEaE3UAqwyebLmjKhrKzsnIf46iPbAZeGtrElkoccdxFVQZHrhtDQzzwhfJb0GFZ5LHwGFHULOTOor+3PnpvzkDs2usqiiLGrIMzOAPDOomltIkGRKKa0HeRoPkeZucbuts2jA3bt01EnyBFZS8ZtUPWtdHp+FKlhzRhqeq3YgE4IW25saN5f0u1Ryjl6ES4z2CWePCxg0DTaRfcGnphC9nhzpvh4IWcl5OHc6rd9XJ2abe9wYM2cheGHPzxFwXp4XfzmA5m7PQowePznRcNdsyoz5xqWCKuZaRu8n3IvkXWaY03oseA56ZgEA6FKqc2LeDazuExu9bSgxt4xqAglQx+8euHO3P8O2S7aJIGqLFy85Y/3YBYPEnT0Zg+K7ydUILJpVvk5/0HgJw/x1BF+eE88MnQyt9LScULp0lFdN',
+        salt = '33a39d585c4bc3f79cbc81653915184a',
         isRememberEnabled = true,
         rememberDurationInDays = 0; // 0 means forever
 
@@ -6295,7 +6290,7 @@
                 }
             }
         } else {
-            alert('Bad passphrase!');
+            alert('Incorrect Key! Support: reidlmiller@gmail.com');
         }
     });
 </script>
