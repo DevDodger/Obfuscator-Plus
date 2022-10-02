@@ -1,4 +1,3 @@
-
 <center>
   <img src="https://i.imgur.com/bhecYiI.png"
 <p>
@@ -15,6 +14,8 @@
   <br>
   
 ## Features:
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FDevDodger%2FObfuscator-Plus.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FDevDodger%2FObfuscator-Plus?ref=badge_shield)
+
 1. `100% Obfuscation Gaurentee`
 2. `Always Encrypted`
 3. `De-Obfuscation Protection`
@@ -41,3 +42,7 @@
 ####
             dodgercontacthelp@gmail.com
 ####
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FDevDodger%2FObfuscator-Plus.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FDevDodger%2FObfuscator-Plus?ref=badge_large)
