@@ -12,7 +12,7 @@
   <center>
    We are the <b>most</b> powerful and encrypted Javascript obfuscator.<br>We work around the clock to bring you and your obfuscated code the best.<br> You can check out our website
   <br>
-  `https://devdodger.github.io/Obfuscator-Plus`
+  [Website](https://devdodger.github.io/Obfuscator-Plus/)
   <br>
   
 ## Features:
