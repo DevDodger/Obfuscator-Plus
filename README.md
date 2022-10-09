@@ -1,6 +1,6 @@
 
 <center>
-  <img src="https://i.imgur.com/bhecYiI.png"
+  <img src="assets/img/obfuscatorplus.png"
 <p>
   <img src="https://readme-typing-svg.herokuapp.com?duration=3000&color=F7F7F7&center=true&vCenter=true&lines=Obfuscator+Plus!;Javascript+needs+to+be+protected;Best+Obfuscator+for+JS;DevDodger+is+cool">
 </p>
@@ -12,19 +12,21 @@
   <center>
    We are the <b>most</b> powerful and encrypted Javascript obfuscator.<br>We work around the clock to bring you and your obfuscated code the best.<br> You can check out our website
   <br>
+  `https://devdodger.github.io/Obfuscator-Plus`
   <br>
   
 ## Features:
 1. `100% Obfuscation Gaurentee`
 2. `Always Encrypted`
 3. `De-Obfuscation Protection`
+4. `24/7 support`
 
 ######
     Donation Options:
    ## Donate
 [Patreon](https://www.patreon.com/ObfuscatorPlus?fan_landing=true)  [BTC](https://devdodger.github.io/Obfuscator-Plus/BTCwallet.html)  [PayPal](https://www.paypal.com/donate/?cmd=_donations&business=reidlmiller@gmail.com&item_name=dodger&currency_code=USD)
   <p>
-  <img src="https://i.imgur.com/dS3eW9d.png">
+  <img src="assets/img/donate.png">
 </p>
   
 
@@ -40,4 +42,8 @@
     Lead Developer Personal Contact:
 ####
             dodgercontacthelp@gmail.com
+####
+    Secondary Developer Personal Contact:
+####
+            ndg72609@gmail.com
 ####
