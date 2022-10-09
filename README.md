@@ -12,9 +12,8 @@
   <center>
    We are the <b>most</b> powerful and encrypted Javascript obfuscator.<br>We work around the clock to bring you and your obfuscated code the best.<br> You can check out our website
   <br>
-  [Website](https://devdodger.github.io/Obfuscator-Plus/)
   <br>
-  
+  https://devdodger.github.io/obfuscator-plus
 ## Features:
 1. `100% Obfuscation Gaurentee`
 2. `Always Encrypted`
