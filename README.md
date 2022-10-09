@@ -10,7 +10,7 @@
   </center>
   
   <center>
-   We are the <b>most</b> powerful and encrypted Javascript obfuscator.<br>We work around the clock to bring you and your obfuscated code the best.<br> You can check out our website
+   We are the <b>most</b> powerful and encrypted Javascript obfuscator.<br>We work around the clock to bring you and your obfuscated code the best.<br> You can check out our website.
   <br>
   <br>
   
