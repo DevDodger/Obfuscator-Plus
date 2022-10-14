@@ -13,7 +13,7 @@ body{
   }
   h1{
     margin-left:5%;
-    color:hsla(255,255%,255%,1);
+    color: black;
     font-size:1.5em;
   }
   textarea{
