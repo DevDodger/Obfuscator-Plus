@@ -36,13 +36,10 @@
 ##
   Email Contact:
 ####
-           InfoObfuscatorPlus@gmail.com
-####
-    Lead Developer Personal Contact:
-####
-            dodgercontacthelp@gmail.com
-####
-    Secondary Developer Personal Contact:
-####
-            ndg72609@gmail.com
-####
+        Bug / Support contact :shipit: // infoobfuscatorplus@gmail.com
+######
+        Personal Developer contact :shipit:	// dodgercontacthelp@gmail.com
+        
+######
+
+Running frm Security Security_v.01902.4u821 Version by @ReidMiller.
