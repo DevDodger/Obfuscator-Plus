@@ -2,9 +2,7 @@
 <!DOCTYPE HTML>
 <html>
 <!--
-Copyright (c) 2012 The Chromium Authors. All rights reserved.
-Use of this source code is governed by a BSD-style license that can be
-found in the LICENSE file.
+Obfuscator-Plus-HSTS
 -->
   <head>
     <meta charset="utf-8">
@@ -130,12 +128,13 @@ found in the LICENSE file.
               <input type="checkbox" id=expect-ct-view-check-enforce-input>
             </label>
           </div>
+          <input type=close value="Add">
           <input type=submit value="Add" id=expect-ct-view-add-submit>
         </form>
 
         <h4>Query Expect-CT domain</h4>
 
-        <p>Input a domain name to query the current Expect-CT set:</p>
+        <p>Input a domain name to query the current Expect-CT set: All HSTS</p>
         <form id=expect-ct-view-query-form>
           <label>Domain: <input type=text id=expect-ct-view-query-input
                                 type="url" placeholder="example.com"></label>
@@ -173,12 +172,11 @@ found in the LICENSE file.
           <input type=submit value="Delete"
             id=domain-security-policy-view-delete-submit>
         </form>
-
       </div>
-
-
+  <!---Working 
+        .rad bld src upd 1/13/22
+        Copy frm @ReidMiller ---->
     </div>
-
   </body>
   <script type="module" src="index.js"></script>
 </html>
