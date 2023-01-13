@@ -36,10 +36,10 @@
 ##
   Email Contact:
 ####
-        Bug / Support contact :shipit: // infoobfuscatorplus@gmail.com
+        Bug / Support contact // infoobfuscatorplus@gmail.com
 ######
-        Personal Developer contact :shipit:	// dodgercontacthelp@gmail.com
+        Personal Developer contact 	// dodgercontacthelp@gmail.com
         
 ######
 
-Running frm Security Security_v.01902.4u821 Version by @ReidMiller.
+Running frm Security Security_v.01902.4u821 Version by @ReidMiller. :shipit::shipit::shipit::shipit::shipit::shipit::shipit::shipit:
