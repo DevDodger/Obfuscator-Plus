@@ -15,7 +15,7 @@
   <br>
   
 ## Features:
-1. `100% Obfuscation Gaurentee`
+1. `100% Obfuscation Guarantee`
 2. `Always Encrypted`
 3. `De-Obfuscation Protection`
 4. `24/7 support`
