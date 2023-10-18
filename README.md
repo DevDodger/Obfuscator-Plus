@@ -43,7 +43,3 @@
 ######
 
 Running frm Security Security_v.01902.4u821 Version by @ReidMiller. :shipit::shipit::shipit::shipit::shipit::shipit::shipit::shipit:
-
-<img src="https://preview.redd.it/d5uh9juguqo61.jpg?auto=webp&s=13caa9c3c52fc26fd8b7ad9958dacddc9ca90291" alt="RacingDukes">
-
-***RacingDukes loves him, they call him the Big Floppa Dr***
